@@ -1,0 +1,37 @@
+.container{
+	background-color: salmon;
+	width: 100%;
+	margin: auto;
+	color: blue;
+	border: 2px solid green;
+	border-radius: 5px;
+	margin-top: 50px;
+}
+table{
+	padding: 30px;
+	margin: 2px;
+}
+
+h1{
+	text-align: center;
+}
+button{
+	width: 70px;
+	height: 30px;
+	background-color: green;
+}
+.logo{
+	display: block;
+	width: 100px;
+	height: 100px;
+	margin: right;
+	margin-top: 10px;
+}
+.logo1{
+	display: block;
+	width: 100px;
+	height: 100px;
+	float:right;
+	/*top: 50px;*/
+	position: absolute;
+}
